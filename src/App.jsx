@@ -13,6 +13,8 @@ function App() {
       container: "map",
     })
 
+    setTomtomMap(map);
+
 
   }, []);
 
